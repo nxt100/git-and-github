@@ -7,5 +7,5 @@
 - [ ] Add lesson reflections commit link in README
 - [ ] Commit the changes. Each commit should contain the above sections (updated).
 - [ ] Celebrate
-- [ ] Personal Notes in Notion (optional)
+- [ ] Personal Notes in Notion (optional) (Provide the link if you have made notes)
 <!-- [x] to tick-->
